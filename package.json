@@ -21,7 +21,6 @@
       "client": "client/main.jsx",
       "server": "server/main.js"
     },
-    "testModule": "tests/main.js",
     "nodeModules": {
       "recompile": {
         "kepler.gl": true,
